@@ -7,7 +7,7 @@
 ;; Keywords: convenience
 ;; Version: 0.2
 
-;; Package-Requires: ((emacs "27.1") (mu4e) (async) (org))
+;; Package-Requires: ((emacs "27.1") (async) (org))
 
 ;; This file is not part of GNU Emacs.
 
